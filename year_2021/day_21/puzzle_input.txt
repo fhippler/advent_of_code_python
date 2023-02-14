@@ -1,0 +1,4 @@
+Player 1 starting position: 10
+Player 2 starting position: 2
+
+exp_val=916083, 49982165861983
